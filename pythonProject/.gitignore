@@ -1,2 +1,6 @@
 hello
 pythonProject/wikipedia_project/check
+__pycache__/
+*.pyc
+*.xml
+*.iml
