@@ -1,2 +1,2 @@
 # wiki
-Find content on wikipedia and translate to armenian
+I want to delete this read my and i dont know how
