@@ -1,2 +1,2 @@
 # wiki
-I want to delete this read my and i dont know how
+I want to delete this read me and i dont know how
