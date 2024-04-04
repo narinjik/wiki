@@ -1,1 +1,1 @@
-WIKIPEDIA SEARCH
+keyword entered by user will check for preferred language content in wikipedia and in case of need translate the content to the preferred language
