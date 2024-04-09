@@ -1,6 +1,6 @@
 import wikipedia
 from deep_translator import GoogleTranslator
-from wikipedia_project.config import values, languages
+from config import values, languages
 
 
 def available_languages(keys, values):

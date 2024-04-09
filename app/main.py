@@ -1,6 +1,6 @@
 import wikipedia
 from loguru import logger
-from wikipedia_project.processing import get_content
+from processing import get_content
 
 
 def main():
